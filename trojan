@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Uwaga!</title>
+  <style>
+    body {
+      background-color: black;
+      color: red;
+      font-family: 'Courier New', monospace;
+      text-align: center;
+      padding-top: 20%;
+    }
+    h1 {
+      font-size: 3em;
+    }
+    p {
+      font-size: 1.5em;
+    }
+  </style>
+  <script>
+    alert("⚠️ Uwaga! Twoje urządzenie zostało schakowane!");
+  </script>
+</head>
+<body>
+  <h1>😈 Twoje urządzenie zostało schakowane 😈</h1>
+  <p>Wszystkie Twoje dane są teraz nasze...</p>
+  <p>💻💀💾</p>
+</body>
+</html>
